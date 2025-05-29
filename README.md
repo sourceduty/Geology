@@ -22,7 +22,7 @@ Also, similarly, [Geographic Sim](https://chatgpt.com/g/g-680b4930cf2881918377fd
 
 [Computational Geomatics](https://chatgpt.com/g/g-67b8bcf7c0e081918abe6b715423e231-computational-geomatics)
 <br>
-[Geological Forecase](https://chatgpt.com/g/g-679bf7cc66548191b1290244eea96d80-geological-forecast)
+[Geological Forecast](https://chatgpt.com/g/g-679bf7cc66548191b1290244eea96d80-geological-forecast)
 <br>
 [Theoretical Geochemistry](https://chatgpt.com/g/g-675ea1d28824819193a94c05c94bc4fc-theoretical-geochemistry)
 <br>

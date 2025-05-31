@@ -20,12 +20,16 @@ Also, similarly, [Geographic Sim](https://chatgpt.com/g/g-680b4930cf2881918377fd
 
 #
 
+![Geology Chem](https://github.com/user-attachments/assets/a66d8386-a54d-4431-a152-066f2d9a4b91)
+
+[Geology Chem](https://chatgpt.com/g/g-6829d0e09f5481918b7a17ffd1d14d2f-geology-chem) is a specialized AI designed to assist with the intersection of chemistry and geology by developing and recommending tailored chemical compounds, reagents, and analytical techniques for various geological applications. These include, but are not limited to, mineral identification, geochemical profiling, rock dissolution protocols, isotopic dating methods, and fossil preservation strategies. Drawing on both classical and modern approaches in inorganic and organic chemistry, Geology Chem supports tasks such as designing safe, effective etchants for mineral surfaces in the field, formulating environmentally benign solvents for extracting core samples, and selecting or modifying reagents for precision instruments like mass spectrometers and X-ray fluorescence (XRF) analyzers. It operates with a deep awareness of geological contexts—whether igneous, metamorphic, or sedimentary—and adapts its chemical recommendations to match the physical and mineralogical characteristics of the sample matrix. The GPT emphasizes safety, environmental compatibility, and analytical effectiveness, ensuring that each recommendation is not only scientifically sound but also practical for both laboratory and field environments.
+
+#
+
 [Computational Geomatics](https://chatgpt.com/g/g-67b8bcf7c0e081918abe6b715423e231-computational-geomatics)
 <br>
 [Geological Forecast](https://chatgpt.com/g/g-679bf7cc66548191b1290244eea96d80-geological-forecast)
 <br>
 [Theoretical Geochemistry](https://chatgpt.com/g/g-675ea1d28824819193a94c05c94bc4fc-theoretical-geochemistry)
-<br>
-[Geology Chem](https://chatgpt.com/g/g-6829d0e09f5481918b7a17ffd1d14d2f-geology-chem)
 <br>
 [Geotech Theorist](https://chatgpt.com/g/g-682bf0fce5d88191b502986db68e24da-geotech-theorist)

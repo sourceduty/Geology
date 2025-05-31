@@ -6,7 +6,7 @@ Also, similarly, [Geographic Sim](https://chatgpt.com/g/g-680b4930cf2881918377fd
 
 #
 
-![Geologist](https://github.com/user-attachments/assets/1efa1f29-f7b6-4222-ba69-48d092cec345)\
+![Geologist](https://github.com/user-attachments/assets/1efa1f29-f7b6-4222-ba69-48d092cec345)
 
 [Geology Terminal](https://chatgpt.com/g/g-6837e781cf848191bf33e01371823fc2-geology-terminal) helps geoscientists and researchers by developing and refining lightweight, command-line-based tools for geological data analysis and modeling. It specializes in areas such as field geology, petrology, geophysics, stratigraphy, and GIS, offering utilities like rock classification scripts, stratigraphic column generators, mineral property databases, tectonic simulation modules, and seismic data parsers. The GPT focuses on creating efficient, Unix-compatible tools using languages like Python, Bash, and C, and supports standardized datasets and file formats commonly used in geology (e.g., GeoSciML, USGS, CSV, shapefiles, SEG-Y). Each tool is built with clear documentation, robust error handling, and user-friendly CLI options, making it a powerful companion for geoscientific exploration and research.
 

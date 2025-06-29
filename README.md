@@ -22,9 +22,9 @@ Also, [Mining Ground](https://chatgpt.com/g/g-685099e73a94819189a4c877009befae-m
 
 #
 
-![Pyramid Sand Art](https://github.com/user-attachments/assets/dc6651d7-b8b7-4e9b-a0cd-c13b21c2f7e2)
+![Mining Tool](https://github.com/user-attachments/assets/25a929db-5ee5-4ae3-8e0f-6a4d238d3de5)
 
-The ancient Egyptians invested lifetimes into the future of mankind and the adundance of environmental space when they designed and constructed thier very large, strong and complex stone structures. The desertified location for the Great Pyramid of Giza was chosen because of the empty sand covered landscape that is mostly unused by people, animals and plants. Today, in comparison to modern engineering feats, Egyptian structures are outdated and almost unnecessary. These structures are reinvested into the futures of mankind every day, year and century that passes without destruction.
+[Mining Tool](https://chatgpt.com/g/g-6860c0bbf50881919e39e5d52d7d5c1b-mining-tool) is a custom GPT made to assist in the development and optimization of custom mineral mining tools. It focuses on researching the mining needs, target minerals, and environmental conditions that are key to efficient and sustainable extraction methods. It analyzes the physical properties, geological formation, and extraction techniques of various minerals, such as precious metals like gold, copper, and diamonds, or industrial minerals like limestone and silica. The model takes into account factors like the hardness, abrasiveness, and proximity of minerals, which influence the mining processes and equipment choices. It explores advanced technologies, such as robotics, AI-driven automation, and precision tools, to optimize mining efficiency, improve safety, and reduce labor.
 
 #
 
